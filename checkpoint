@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\python-code\\HexGame\\hex-webgl-0.001-alexnetv2-8-epochs.model"
+all_model_checkpoint_paths: "C:\\python-code\\HexGame\\hex-webgl-0.001-alexnetv2-8-epochs.model"

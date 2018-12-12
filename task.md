@@ -1,0 +1,7 @@
+- [x] Define left,right,foward,slow functions
+- [x] Seperate its task in each file
+- [x] Call the Navigator functions in the main
+- [x] Change value of ymin,ymax appropriately
+- [x] Optimize ImageGrab use win32
+- [x] Fix `NONE type exception`
+- [x] Capture UP,LEFT,RIGHT,DOWN Arrow keys input in characters.
